@@ -32,6 +32,6 @@ int main(){
 |table|'importance'|     |
 
 
-***
+**
 ![Alt "Hello"](http://guides.github.com/activities/hello-world/branching.png)
 
